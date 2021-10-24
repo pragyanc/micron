@@ -1,0 +1,4 @@
+Question:- A customer wants to deploy its web application with CosmosDB as a backend. 
+They want to leverage IaaS with scaling and load balancing features. 
+Customers want multi region high availability.
+Suggest the component and design the diagram
